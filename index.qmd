@@ -37,8 +37,8 @@ Co-organizers for **`2023-24`** include:
 
 # 2023 Fall Schedule
 
--   **`Last month`** Project Oriented Workflows with **Shannon Pileggi**
--   **`Tonight:`** Introduction to Network Analysis with Leslie Echols
+-   **`Last month`** Project Oriented Workflows with Shannon Pileggi
+-   **`Tonight:`** Introduction to Network Analysis with **Leslie Echols**
 -   **`November 30th:`** Introduction to ChatGPT for R Coding with Olivia Weng
 
 # Announcements
